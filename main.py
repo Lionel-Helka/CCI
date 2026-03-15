@@ -301,7 +301,7 @@ class ColonyApp(QWidget):                                   #定义一个ColonyA
                     model = self._build_fasterrcnn(info)
                     missing, unexpected = self._load_fasterrcnn_state(model, model_path)
                     model.eval()
-                    model.roi_heads.detections_per_img = 300
+                    model.roi_heads.detections_per_img = 500
                     model.to(self.device)
 
                     if missing or unexpected:

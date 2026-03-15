@@ -1,0 +1,18 @@
+path: D:/First try/justtry
+
+train: images/train
+val: images/val
+
+nc: 10
+names:
+  0: Alternaria alternata
+  1: Alternaria tenuissima
+  2: Bacillus subtilis
+  3: Bacillus thaonhiensis
+  4: Deinococcus soli
+  5: Kocuria oceani
+  6: Arthrobacter oryzae
+  7: Micrococcus luteus
+  8: Staphylococcus aureus
+  9: Streptomyces spororaveus
+
