@@ -1,0 +1,11 @@
+﻿class_name,gt_count,pred_count,abs_error
+Alternaria alternata,18,19,1
+Alternaria tenuissima,10,10,0
+Bacillus subtilis,17,19,2
+Bacillus thaonhiensis,16,15,1
+Deinococcus soli,122,120,2
+Kocuria oceani,128,120,8
+Arthrobacter oryzae,150,122,28
+Micrococcus luteus,154,132,22
+Staphylococcus aureus,59,68,9
+Streptomyces spororaveus,48,54,6

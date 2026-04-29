@@ -1,0 +1,11 @@
+﻿image_name,gt_total,pred_total,abs_error
+Alternaria alternata.jpg,18,18,0
+Alternaria tenuissima.jpg,10,10,0
+Arthrobacter oryzae2.jpg,150,139,11
+Bacillus subtilis.jpg,17,20,3
+Bacillus thaonhiensis.jpg,16,17,1
+Deinococcus soli.jpg,122,121,1
+Kocuria oceani.jpg,128,133,5
+Micrococcus luteus.jpg,154,158,4
+Staphylococcus aureus.jpg,59,60,1
+Streptomyces spororaveus.jpg,48,50,2

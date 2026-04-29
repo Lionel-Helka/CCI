@@ -1,0 +1,12 @@
+﻿,Alternaria alternata,Alternaria tenuissima,Bacillus subtilis,Bacillus thaonhiensis,Deinococcus soli,Kocuria oceani,Arthrobacter oryzae,Micrococcus luteus,Staphylococcus aureus,Streptomyces spororaveus,background
+Alternaria alternata,18,0,0,0,0,0,0,0,0,0,0
+Alternaria tenuissima,0,10,0,0,0,0,0,0,0,0,0
+Bacillus subtilis,0,0,17,0,0,0,0,0,0,0,0
+Bacillus thaonhiensis,0,0,0,14,0,0,0,0,0,0,2
+Deinococcus soli,0,0,0,0,118,0,0,0,0,0,4
+Kocuria oceani,0,0,0,0,0,127,0,0,0,0,1
+Arthrobacter oryzae,0,0,3,0,1,0,61,0,0,2,83
+Micrococcus luteus,0,0,0,0,0,0,0,150,0,0,4
+Staphylococcus aureus,0,0,0,0,0,0,0,0,58,0,1
+Streptomyces spororaveus,0,0,0,0,0,0,0,0,0,48,0
+background,0,0,1,0,6,8,1,7,0,3,0
